@@ -1,0 +1,22 @@
+{
+  "name": "react-native-potota-rich-text",
+  "version": "1.0.0",
+  "description": "A rich text editor for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thtTNT/react-native-potato-rich-text.git"
+  },
+  "keywords": [
+    "rich-text"
+  ],
+  "author": "thtTNT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thtTNT/react-native-potato-rich-text/issues"
+  },
+  "homepage": "https://github.com/thtTNT/react-native-potato-rich-text#readme"
+}
